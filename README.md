@@ -13,8 +13,8 @@
 
 ## <img src="https://img.shields.io/badge/My-Links-1b4965?style=for-the-badge&logo=github&logoColor=white" alt="My Links" />
 
-<img src="./programmer-day.gif"
-     alt="Programmer Day animation"
+<img src="./boy_picture.gif"
+     alt="Programmer Doy animation"
      width="380"
      height="260"
      align="right" />
