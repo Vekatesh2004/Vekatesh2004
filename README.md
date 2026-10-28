@@ -13,11 +13,13 @@
 
 ## <img src="https://img.shields.io/badge/My-Links-1b4965?style=for-the-badge&logo=github&logoColor=white" alt="My Links" />
 
+
 <img src="./boy_picture.gif"
-     alt="Programmer Doy animation"
+     alt="Programmer Day animation"
      width="380"
      height="260"
      align="right" />
+
 
 -  &nbsp;**My Projects** → [github.com/Vekatesh2004?tab=repositories](https://github.com/Vekatesh2004?tab=repositories)
 -  &nbsp;**LinkedIn** → [www.linkedin.com/in/venktesh-g-884088288](www.linkedin.com/in/venktesh-g-884088288)
