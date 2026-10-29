@@ -22,7 +22,7 @@
 
 
 -  &nbsp;**My Projects** → [github.com/Vekatesh2004?tab=repositories](https://github.com/Vekatesh2004?tab=repositories)
--  &nbsp;**LinkedIn** → [www.linkedin.com/in/venktesh-g-884088288](www.linkedin.com/in/venktesh-g-884088288)
+-  &nbsp;**LinkedIn** → [www.linkedin.com/in/venktesh-g-884088288](https://www.linkedin.com/in/venkatesh-g-884088288/)
 -  &nbsp;**Email** → [venktesh792004@gmail.com](mailto:venktesh792004@gmail.com)
 -  &nbsp;**College** → REVA University, Bengaluru
 
